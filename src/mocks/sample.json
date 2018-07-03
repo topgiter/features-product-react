@@ -9,7 +9,7 @@
      "parent_id": 1075967,
      "parent_position ": 4,
      "state_position ": 786,
-     "​​FEATURE_TYPE": "feature",
+     "​​feature_type": "feature",
      "state_id": 85458,
      "owner_id": 24269
     }, {
@@ -21,7 +21,7 @@
      "parent_id": 1075967,
      "parent_position": 3,
      "state_position": 785,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 85458,
      "owner_id": 24269
     }, {
@@ -33,7 +33,7 @@
      "parent_id": 1075978,
      "parent_position": 1,
      "state_position": 784,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42774,
      "owner_id": 24269
     }, {
@@ -45,7 +45,7 @@
      "parent_id": 1075978,
      "parent_position": 0,
      "state_position": 783,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42774,
      "owner_id": 24269
     }, {
@@ -57,7 +57,7 @@
      "parent_id": 1075977,
      "parent_position": 1,
      "state_position": 782,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42775,
      "owner_id": 24269
     }, {
@@ -69,7 +69,7 @@
      "parent_id": 1075977,
      "parent_position": 0,
      "state_position": 781,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42774,
      "owner_id": 24269
     }, {
@@ -81,7 +81,7 @@
      "parent_id": 1075976,
      "parent_position": 2,
      "state_position": 780,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 85458,
      "owner_id": 24269
     }, {
@@ -93,7 +93,7 @@
      "parent_id": 1075976,
      "parent_position": 1,
      "state_position": 779,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 85458,
      "owner_id": 24269
     }, {
@@ -105,7 +105,7 @@
      "parent_id": 1076006,
      "parent_position": 1,
      "state_position": 778,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42775,
      "owner_id": 24269
     }, {
@@ -117,7 +117,7 @@
      "parent_id": 1076007,
      "parent_position": 0,
      "state_position": 777,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42775,
      "owner_id": 24269
     }, {
@@ -129,7 +129,7 @@
      "parent_id": 1076006,
      "parent_position": 0,
      "state_position": 776,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
      "state_id": 42775,
      "owner_id": 24269
     }, {
@@ -141,7 +141,7 @@
      "parent_id": 1075976,
      "parent_position": 0,
      "state_position": 775,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
      "state_id": 42775,
      "owner_id": 24269
     }, {
@@ -153,7 +153,7 @@
      "parent_id": 1075966,
      "parent_position": 5,
      "state_position": 774,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -165,7 +165,7 @@
      "parent_id": 1075966,
      "parent_position": 4,
      "state_position": 773,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -177,7 +177,7 @@
      "parent_id": 1075966,
      "parent_position": 3,
      "state_position": 772,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42773,
      "owner_id": 24269
     }, {
@@ -189,7 +189,7 @@
      "parent_id": 1075966,
      "parent_position": 2,
      "state_position": 771,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 85457,
      "owner_id": 24269
     }, {
@@ -201,7 +201,7 @@
      "parent_id": 1075966,
      "parent_position": 1,
      "state_position": 770,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42773,
      "owner_id": 24269
     }, {
@@ -213,7 +213,7 @@
      "parent_id": 1075966,
      "parent_position": 0,
      "state_position": 769,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 85457,
      "owner_id": 24269
     }, {
@@ -225,7 +225,7 @@
      "parent_id": 1075975,
      "parent_position": 0,
      "state_position": 768,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -237,7 +237,7 @@
      "parent_id": 1075973,
      "parent_position": 1,
      "state_position": 767,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -249,7 +249,7 @@
      "parent_id": 1075973,
      "parent_position": 0,
      "state_position": 766,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -261,7 +261,7 @@
      "parent_id": 1075965,
      "parent_position": 3,
      "state_position": 765,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42773,
      "owner_id": 24269
     }, {
@@ -273,7 +273,7 @@
      "parent_id": 1075965,
      "parent_position": 2,
      "state_position": 764,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42773,
      "owner_id": 24269
     }, {
@@ -285,7 +285,7 @@
      "parent_id": 1075970,
      "parent_position": 3,
      "state_position": 763,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -297,7 +297,7 @@
      "parent_id": 1075970,
      "parent_position": 2,
      "state_position": 762,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -309,7 +309,7 @@
      "parent_id": 1075970,
      "parent_position": 1,
      "state_position": 761,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -321,7 +321,7 @@
      "parent_id": 1075970,
      "parent_position": 0,
      "state_position": 760,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -333,7 +333,7 @@
      "parent_id": 1075969,
      "parent_position": 2,
      "state_position": 759,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -345,7 +345,7 @@
      "parent_id": 1075969,
      "parent_position": 1,
      "state_position": 758,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -357,7 +357,7 @@
      "parent_id": 1075969,
      "parent_position": 0,
      "state_position": 757,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -369,7 +369,7 @@
      "parent_id": 1075968,
      "parent_position": 2,
      "state_position": 756,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -381,7 +381,7 @@
      "parent_id": 1075968,
      "parent_position": 1,
      "state_position": 755,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -393,7 +393,7 @@
      "parent_id": 1075968,
      "parent_position": 0,
      "state_position": 754,
-     "FEATURE_TYPE": "feature",
+     "feature_type": "feature",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -405,7 +405,7 @@
      "parent_id": 1075967,
      "parent_position": 2,
      "state_position": 753,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
     "state_id": 42774,
      "owner_id": 24269
     }, {
@@ -417,7 +417,7 @@
      "parent_id": 1075967,
      "parent_position": 1,
      "state_position": 752,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
      "state_id": 42774,
      "owner_id": 24269
     }, {
@@ -429,7 +429,7 @@
      "parent_id": 1075967,
      "parent_position": 0,
      "state_position": 751,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
     "state_id": 85458,
      "owner_id": 24269
     }, {
@@ -441,7 +441,7 @@
      "parent_id": 1075965,
      "parent_position": 1,
      "state_position": 750,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
     "state_id": 42773,
      "owner_id": 24269
     }, {
@@ -453,7 +453,7 @@
      "parent_id": 1075965,
      "parent_position": 0,
      "state_position": 749,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
     "state_id": 42773,
      "owner_id": 24269
     }, {
@@ -465,7 +465,7 @@
      "parent_id": 1075963,
      "parent_position": 2,
      "state_position": 748,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
     "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -477,7 +477,7 @@
      "parent_id": 1075963,
      "parent_position": 1,
      "state_position": 747,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
     "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -489,7 +489,7 @@
      "parent_id": 1075963,
      "parent_position": 0,
      "state_position": 746,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
        "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -501,7 +501,7 @@
      "parent_id": 1075960,
      "parent_position": 3,
      "state_position": 745,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
      "state_id": 42774,
      "owner_id": 24269
     }, {
@@ -513,7 +513,7 @@
      "parent_id": 1075960,
      "parent_position": 2,
      "state_position": 744,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
      "state_id": 85457,
      "owner_id": 24269
     }, {
@@ -525,7 +525,7 @@
      "parent_id": 1075960,
      "parent_position": 1,
      "state_position": 743,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
      "state_id": 42773,
      "owner_id": 24269
     }, {
@@ -537,7 +537,7 @@
      "parent_id": 1075960,
      "parent_position": 0,
      "state_position": 742,
-     "FEATURE_TYPE": "component",
+     "feature_type": "component",
      "state_id": 42777,
      "owner_id": 24269
     }, {
@@ -549,7 +549,7 @@
      "parent_id": null,
      "parent_position": 10,
      "state_position": null,
-     "FEATURE_TYPE": "product",
+     "feature_type": "product",
      "state_id": 42777,
      "owner_id": 24269
     }
