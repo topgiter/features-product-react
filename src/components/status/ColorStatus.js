@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { Row, Col } from 'reactstrap';
+import { Col } from 'reactstrap';
 import './ColorStatus.css';
 import '../feature/Feature.css';
 
@@ -13,9 +13,6 @@ const defaultProps = {
 };
 
 class ColorStatus extends Component {
-  constructor(props) {
-    super(props);
-  }
 
   render() {
     const { classNames, alignTop } = this.props;
