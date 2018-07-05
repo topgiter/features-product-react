@@ -1,34 +1,34 @@
 .feature-gray {
-    border: 8px solid #808080;
+    border: 4px solid #808080;
     background-color: rgba(128, 128, 128, 0.3);
 }
 
 .feature-green {
-    border: 8px solid #008000;
+    border: 4px solid #008000;
     background-color: rgba(0, 128, 0, 0.3);
 }
 
 .feature-pink {
-    border: 8px solid #ffc0cb;
+    border: 4px solid #ffc0cb;
     background-color: rgba(255, 192, 203, 0.3);
 }
 
 .feature-blue {
-    border: 8px solid blue;
+    border: 4px solid blue;
     background-color: rgba(0, 0, 255, 0.3);
 }
 
 .feature-orange {
-    border: 8px solid orange;
+    border: 4px solid orange;
     background-color: rgba(255, 165, 0, 0.3);
 }
 
 .feature-yellow {
-    border: 8px solid yellow;
+    border: 4px solid yellow;
     background-color: rgba(255, 255, 0, 0.3);
 }
 
 .feature-red {
-    border: 8px solid red;
+    border: 4px solid red;
     background-color: rgba(255, 0, 0, 0.3);
 }

@@ -6,7 +6,7 @@
         {"id":1083552,"name":"Feature A","description":"","release_id":null,"position":0,"parent_id":1083551,"parent_position":1,"state_position":776,"feature_type":"feature","state_id":42777,"owner_id":24269}, 
         {"id":1083551,"name":"Some component","description":"","release_id":null,"position":0,"parent_id":1083549,"parent_position":0,"state_position":775,"feature_type":"component","state_id":42777,"owner_id":24269}, 
         {"id":1083549,"name":"Second Product","description":"","release_id":null,"position":0,"parent_id":null,"parent_position":11,"state_position":null,"feature_type":"product","state_id":42777,"owner_id":24269}, 
-        {"id":1076033,"name":"Feature Feature 30","description":"","release_id":null,"position":0,"parent_id":1075967,"parent_position":4,"state_position":786,"feature_type":"feature","state_id":85458,"owner_id":24269}, 
+        {"id":1076033,"name": "Feature 30","description":"","release_id":null,"position":0,"parent_id":1075967,"parent_position":4,"state_position":786,"feature_type":"feature","state_id":85458,"owner_id":24269},
         {"id":1076031,"name":"Feature 29","description":"","release_id":null,"position":0,"parent_id":1075967,"parent_position":3,"state_position":785,"feature_type":"feature","state_id":85458,"owner_id":24269}, 
         {"id":1076029,"name":"Feature 28","description":"","release_id":null,"position":0,"parent_id":1075978,"parent_position":1,"state_position":784,"feature_type":"feature","state_id":42774,"owner_id":24269}, 
         {"id":1076028,"name":"Feature 27","description":"","release_id":null,"position":0,"parent_id":1075978,"parent_position":0,"state_position":783,"feature_type":"feature","state_id":42774,"owner_id":24269}, 

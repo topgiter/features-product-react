@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Feature from '../feature/Feature';
+import { Col } from 'reactstrap';
 import './Product.css';
 
 const propTypes = {
@@ -30,8 +31,10 @@ class Product extends Component {
     const filteredFeatures = features.filter(f => f.feature_type === 'feature');
     const sortedFeatures = filteredFeatures.sort((f1, f2) => f1.state_id - f2.state_id);
     const countOfFeatures = sortedFeatures.length;
-    const rows = countOfFeatures >= maxCol * maxCol ? Math.ceil(countOfFeatures / maxCol): this.calcRows(countOfFeatures);
-    const cols = Math.ceil(countOfFeatures / rows);
+    // const rows = countOfFeatures >= maxCol * maxCol ? Math.ceil(countOfFeatures / maxCol): this.calcRows(countOfFeatures);
+    // const cols = Math.ceil(countOfFeatures / rows);
+    const cols = maxCol;
+    const rows = Math.ceil(countOfFeatures / cols);
 
     let productNode = [];
     for (let r = 0; r < rows; r++) {
@@ -52,7 +55,7 @@ class Product extends Component {
         }
       }
 
-      productNode.push(
+      productNode.unshift(
         <div key={`product-row-${r}`} className="feature-row">
           {rowNodes}
         </div>
@@ -60,11 +63,11 @@ class Product extends Component {
     }
 
     return (
-      <div className="product">
+      <Col className="product align-self-end" lg={4}>
         {productNode}
         <div className="product-break-line"></div>
         <div className="product-name">{product.name}</div>
-      </div>
+      </Col>
     );
   }
 }

@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import mockData from '../mocks/two-products';
 import Product from './product/Product';
+import ColorStatus from './status/ColorStatus';
+import { Container, Row } from 'reactstrap';
 import './App.css';
 
 const propTypes = {
@@ -9,7 +11,7 @@ const propTypes = {
   classNames: PropTypes.object
 };
 const defaultProps = {
-  maxCol: 5
+  maxCol: 10
 };
 
 class App extends Component {
@@ -44,18 +46,32 @@ class App extends Component {
 
   render() {
     const { maxCol, classNames } = this.props;
+    const alignTop = this.products.length % 3 === 0;
+    const colorStatusNode =
+      <ColorStatus
+        classNames={classNames}
+        alignTop={alignTop}
+      />;
 
     return (
       <div className="featureApp">
-        {this.products.map((p, i) =>
-          <Product
-            key={`product-${i}`}
-            product={p.product}
-            features={p.features}
-            maxCol={maxCol}
-            classNames={classNames}
-          />
-        )}
+        <Container>
+          <Row>
+            {this.products.map((p, i) =>
+              <Product
+                key={`product-${i}`}
+                product={p.product}
+                features={p.features}
+                maxCol={maxCol}
+                classNames={classNames}
+              />
+            )}
+            {alignTop ? null : colorStatusNode}
+          </Row>
+          <Row>
+            {alignTop ? colorStatusNode : null}
+          </Row>
+        </Container>
       </div>
     );
   }
